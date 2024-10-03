@@ -32,6 +32,6 @@ Enter the vlue of float c: 56.435
 C = 56.435
 Enter the character z: a
 Z = a
-Enter your name: OM NARKHEDE
-Name: OMNARKHEDE
+Enter your name: Mayur bhapkar
+Name: Mayurbhapkar
 Size of name: 24*/
